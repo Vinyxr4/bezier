@@ -1,0 +1,13 @@
+.content {
+     margin-left: 200px;
+}
+
+.inner-title {
+    margin-left: 200px;
+}
+
+p, .instructions {
+    width: 900px;
+    font-family: sans-serif;
+    margin-bottom: 10px;
+}

@@ -1,0 +1,18 @@
+Nome: Guilherme Feulo do Espirito Santo    Número USP: 6431749
+Nome: Vinícius Pessoa Duarte               Número USP: 8941943
+
+Para conseguir executar o código, é necessário ter python instalado.
+
+Para iniciar um servidor local, vá até o diretório deste trabalho e digite no terminal:
+
+$python -m SimpleHTTPServer
+
+Este comando iniciará um servidor local com o código deste trabalho.
+
+Para acessar o trabalho, no navegador digite "localhost:<porta>/bezier.html",
+em que <porta> é a porta fornecida pelo comando acima.
+
+O modo de navegação do programa está descrito na página que será aberta.
+
+Caso prefira, é possível acessar o exercício por:
+https://www.ime.usp.br/~vinipd/mac0210/bezier/bezier.html
